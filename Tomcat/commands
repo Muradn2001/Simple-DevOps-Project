@@ -1,0 +1,11 @@
+cd /g/abood/IUG/Year4/Section2/GraduationProject/DevOps/gitbash/hello-world/webapp/src/main/webapp
+pwd
+ll 
+nano index.jsp
+
+*edit what ever you want => save => exit
+
+git status
+git add .
+git commit -m ""anythin in index.jsp"
+git push origin master
